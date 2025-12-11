@@ -6,10 +6,10 @@ I'm a **Full-Stack Web Developer** passionate about building modern, functional 
 
 ## 💻 About Me
 ```plaintext
-- 🧑‍💻 Full-Stack Web Developer  
-- 📍 Always learning and improving  
-- 🚀 JavaScript & web development enthusiast  
-- 🌱 Currently improving my projects and skills  
+🧑‍💻 Full-Stack Web Developer  
+📍 Always learning and improving  
+🚀 JavaScript & web development enthusiast  
+🌱 Currently improving my projects and skills  
 ```
 ---
 
