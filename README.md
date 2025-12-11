@@ -2,4 +2,4 @@
 
 I´m a web developer, fullstack.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8B6LY_BCAH54Xo9_1H8XN8c1gTpGXHhBCUw&s" alt="gif" width="100%" height="300">
+<div class="tenor-gif-embed" data-postid="12969459" data-share-method="host" data-aspect-ratio="2.4058" data-width="100%"><a href="https://tenor.com/view/smoking-drinking-brad-pitt-night-out-fight-club-gif-12969459">Smoking Drinking GIF</a>from <a href="https://tenor.com/search/smoking-gifs">Smoking GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
